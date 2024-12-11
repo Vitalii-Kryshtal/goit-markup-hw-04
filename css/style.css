@@ -381,9 +381,9 @@ background-color: #f4f4fd;
     overflow: hidden;
 }
 
-.box-overlay:hover .text-overlay {
+ .portfolio-content:hover .text-overlay {
     transform: translateY(0);
-}
+ }
 
 .info-portfolio {
     padding: 32px 16px;
